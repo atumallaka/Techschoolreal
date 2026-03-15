@@ -7,8 +7,8 @@
             background-size: 800px 800px;
             background-image: url(../imagens/caderno.jpeg);
             background-repeat: no-repeat;
-            background-position-y: 1px;
-            background-position-x: 235px;
+            background-position-y: middle;
+            background-position-x: center;
         }
 
         h1 {
